@@ -63,7 +63,7 @@ public class ApiConfig {
     private List<String> vipParseFlags;
     private List<IJKCode> ijkCodes;
     private String spider = null;
-    public String wallpaper = "";
+    public String wallpaper = "https://pictures.catvod.eu.org/";
 
     private final SourceBean emptyHome = new SourceBean();
 

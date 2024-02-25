@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TVBox</string>
-    <string name="app_home">首页</string>
+    <string name="app_name">快学习</string>
+    <string name="app_home">别看了</string>
     <string name="app_source"></string>
 
     // Home Page //
-    <string name="hm_ok">加载成功</string>
-    <string name="hm_notok">加载失败</string>
+    <string name="hm_ok">恭喜郎卫敏可以看视频了</string>
+    <string name="hm_notok">郎卫敏没东西看咯</string>
     <string name="hm_retry">重试</string>
     <string name="hm_cancel">取消</string>
     <string name="hm_exit">再按一次返回键退出应用</string>
